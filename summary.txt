@@ -1,0 +1,48 @@
+Chapter I. Down the Rabbit-Hole:
+    Character List: ['Alice', 'Dinah', 'Rabbit', 'RabbitHole Alice']
+    Locations: ['White Rabbit', 'Australia', 'New Zealand']
+---------------------------------------------
+Chapter II. The Pool of Tears:
+    Character List: ['Alice', 'Mouse', 'Mabel', 'Rabbit', 'ALICE', 'ESQ', 'HEARTHRUG', 'Alice ', 'Duchess', 'Ada', 'O Mouse', 'William the Conqueror', 'Dinah']
+    Locations: ['Rome', 'Nile', 'Paris', 'London']
+---------------------------------------------
+Chapter III. A Caucus-Race and a Long Tale:
+    Character List: ['Alice', 'Mouse', 'Dodo', 'Lory', 'Edwin', 'Morcar', 'William', 'Dinah', 'William the Conqueror', 'Stigand', 'Duck', 'Edgar Atheling', 'Shakespeare', 'Fury', 'Ma', 'Canary', 'Dinah ']
+    Locations: ['Northumbria', 'Mercia', 'Canterbury', 'Dinah']
+---------------------------------------------
+Chapter IV. The Rabbit Sends in a Little Bill:
+    Character List: ['Alice', 'Bill', 'Rabbit', 'Dinah', 'Mary Ann', 'Mary Ann ', 'Pat ', 'Pat', 'Brandy', 'Don', 'Lizard']
+    Locations: []
+---------------------------------------------
+Chapter V. Advice from a Caterpillar:
+    Character List: ['Alice', 'William', 'Pray', 'Serpent', 'WILLIAM']
+    Locations: []
+---------------------------------------------
+Chapter VI. Pig and Pepper:
+    Character List: ['Alice', 'Duchess', 'Footman', 'Cat', 'VI', 'Pepper', 'FishFootman', 'Don', 'Hare', 'Hatter']
+    Locations: ['Cheshire']
+---------------------------------------------
+Chapter VII. A Mad Tea-Party:
+    Character List: ['Alice', 'Hatter', 'Dormouse', 'Hare', 'VII', 'Elsie', 'Lacie', 'Tillie']
+    Locations: []
+---------------------------------------------
+Chapter VIII. The Queen's Croquet-Ground:
+    Character List: ['Alice', 'King', 'Rabbit', 'Duchess', 'White Rabbit', 'Cat']
+    Locations: []
+---------------------------------------------
+Chapter IX. The Mock Turtle's Story:
+    Character List: ['Alice', 'Duchess', 'King', 'Gryphon', 'Don', 'Mock Turtle', 'Laughing']
+    Locations: []
+---------------------------------------------
+Chapter X. The Lobster Quadrille:
+    Character List: ['Alice', 'Beau', 'Pennyworth', 'Dinn', 'WILLIAM', 'Tis', 'Gryphon']
+    Locations: ['England', 'France']
+---------------------------------------------
+Chapter XI. Who Stole the Tarts?:
+    Character List: ['King', 'Alice', 'Hatter', 'Dormouse', 'Bill', 'Rabbit', 'Hare', 'Don', 'Duchess', 'Shan', 'Pepper', 'White Rabbit']
+    Locations: []
+---------------------------------------------
+Chapter XII:
+    Character List: ['Alice', 'King', 'Lizard', 'Him', 'Don', 'Knave', 'Bill', 'Mouse', 'Hare', 'Duchess']
+    Locations: ['White Rabbit', 'Wonderland']
+---------------------------------------------
