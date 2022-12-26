@@ -12,7 +12,7 @@ Produce a chapter recap with the following information
 ### Input Data
 - Alice’s Adventures in Wonderland by Lewis Carroll (obtained from NLTK Gutenberg Corpus).
 ### Training DataSet
-- BOOKSUM
+- BOOKSUM 
   * A collection of dataset for long-form narrative summarized jointly developed by Salesforce Research and Yale University.
   * Covers literature domain such as novels, plays and stories and human written summaries in three levels of details (paragraphs, chapter, book).
   * Readily available on the HuggingFace platform
