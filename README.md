@@ -29,6 +29,3 @@ Produce a chapter recap with the following information
 
 ## Authors
 Francois Low
-
-In completion of Honours Thesis in partial fulfillment of the
-requirements for the degree of Bachelor of Science (Honours) in Computer Science on December 2022, Memorial University of Newfoundland
