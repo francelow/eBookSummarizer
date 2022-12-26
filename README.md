@@ -15,9 +15,9 @@ Produce a chapter recap with the following information
 - Alice’s Adventures in Wonderland by Lewis Carroll (obtained from NLTK Gutenberg Corpus).
 ### Training DataSet
 - BOOKSUM
-  *A collection of dataset for long-form narrative summarized jointly developed by Salesforce Research and Yale University.
-  *Covers literature domain such as novels, plays and stories and human written summaries in three levels of details (paragraphs, chapter, book).
-  *Readily available on the HuggingFace platform
+  * A collection of dataset for long-form narrative summarized jointly developed by Salesforce Research and Yale University.
+  * Covers literature domain such as novels, plays and stories and human written summaries in three levels of details (paragraphs, chapter, book).
+  * Readily available on the HuggingFace platform
   
 ### Software
 - Natural Language Toolkit (NLTK)
@@ -25,13 +25,7 @@ Produce a chapter recap with the following information
 - HuggingFace
 
 ## Demo
-Spatial anchors and a 3D mesh model of the destination are generated when the user choose the origin and destination.  
-#### Origin: Level 2 hallway, Destination: EN-2013 Visual and Analytic Computing Lab  
-![](https://github.com/francelow/XRayNav/blob/main/hallway_to_visuallab.gif) 
-#### Origin: EN-2013 Visual and Analytic Computing Lab, Destination: Level 3  
-![](https://github.com/francelow/XRayNav/blob/main/visual_lab_to_level3.gif) 
-#### Origin: Level 3, Destination: EN-2013 Visual and Analytic Computing Lab  
-![](https://github.com/francelow/XRayNav/blob/main/level3_to_visuallab.gif)
+
 
 ## Authors
 Francois Low
