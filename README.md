@@ -2,8 +2,6 @@
 ## Introduction
 Current e-book readers in the market like traditional paperbacks, do not provide chapter recap. Getting a chapter recap is vital to catching up with the current chapter for the readers. It allows readers to get reacquainted to the characters that are reintroduced into the scenes or some contextual knowledge or backstory for the readers to follow through the current series of events. In this paper, we propose using named entity recognition model and text-to-text LongT5 transformer trained with BOOKSUM dataset to implement a summarizer that is capable of providing a list of characters and locations that are present in the chapter and also a plot summary of chapter.
 
-
-For more details about the project: [Project Thesis](francois_honours_thesis.pdf)
 ### Main functionalities
 Produce a chapter recap with the following information
 - List of characters that appears in the various scenes of each chapter
