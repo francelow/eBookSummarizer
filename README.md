@@ -24,6 +24,11 @@ Produce a chapter recap with the following information
 
 ## Demo
 
+* Character names and locations using Named Entity Recognition (NER)  
+![](https://github.com/francelow/eBookSummarizer/blob/main/characters_locations_NER.jpg)  
+* Plot summary using LongT5 model trained with BOOKSUM compared with human written summaries from SparkNotes and actual book  
+![](https://github.com/francelow/eBookSummarizer/blob/main/plot_summary_t5.jpg)  
+![](https://github.com/francelow/eBookSummarizer/blob/main/plot_summary_t5_2.jpg)
 
 ## Authors
 Francois Low
